@@ -7,6 +7,8 @@
 bilibili直播间简介<br>
 room: 6178163<br>
 环境: HTML<br>
+铸币批狸批狸把直播间简介大改版，所以不继续更新了（已经有很长一段时间了）<br>
+<br>
 [![HTML](https://img.shields.io/badge/language-HTML-red.svg)](https://www.w3.org/html/)<br>
 
 ****
